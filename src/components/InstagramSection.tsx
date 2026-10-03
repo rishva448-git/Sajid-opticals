@@ -9,34 +9,34 @@ import { STORE_INFO } from '@/data/products';
 export default function InstagramSection() {
   const feedImages = [
     {
-      src: '/images/instagram/insta-1.jpg',
+      src: '/images/instagram/Guru.jpeg',
       tag: '#EyewearTrends',
-      alt: 'Customer in stylish acetate glasses',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
     {
-      src: '/images/instagram/insta-2.jpg',
+      src: '/images/instagram/Mei.jpeg',
       tag: '#BlueCutProtection',
-      alt: 'Modern computer glasses frame',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
     {
-      src: '/images/instagram/insta-3.jpg',
+      src: '/images/instagram/Naveen.jpeg',
       tag: '#SajithEyeCare',
-      alt: 'Customer wearing round metal frame',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
     {
-      src: '/images/instagram/insta-4.jpg',
+      src: '/images/instagram/WhatsApp Image 2026-04-11 at 7.50.07 PM.jpeg',
       tag: '#SunglassesCollection',
-      alt: 'UV protected polarized sunglasses',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
     {
-      src: '/images/instagram/insta-5.jpg',
+      src: '/images/instagram/WhatsApp Image 2026-04-11 at 7.50.08 PM.jpeg',
       tag: '#AvinashiOpticals',
-      alt: 'Classic rectangle executive frame',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
     {
-      src: '/images/instagram/insta-6.jpg',
+      src: '/images/instagram/crop pic .png',
       tag: '#ClearVision',
-      alt: 'Optical prescription fitting session',
+      alt: 'Portrait from the Sajith Eye Care photo collection',
     },
   ];
 
